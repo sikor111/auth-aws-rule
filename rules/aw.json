@@ -1,5 +1,5 @@
 {
     "enabled": true,
     "order": 15,
-    "stage": "add aws role"
+    "stage": "add_aws_role"
 }
