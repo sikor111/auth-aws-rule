@@ -7,7 +7,7 @@ function (user, context, callback) {
     'https://aws.amazon.com/SAML/Attributes/Role': 'awsRole',
     'https://aws.amazon.com/SAML/Attributes/RoleSessionName': 'awsRoleSession'
   };
-
+ 
   callback(null, user, context);
 
 }
