@@ -1,5 +1,4 @@
 {
-    "enabled": true,
     "order": 15,
-    "stage": "add-aws-role"
+    "stage": "aws"
 }
